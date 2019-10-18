@@ -1,0 +1,19 @@
+{
+  "name": "github-lang-color-lookup",
+  "version": "1.0.0",
+  "description": "A simple project that allows you to lookup github colors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bryceremick/github-language-colors.git"
+  },
+  "author": "Bryce Remick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bryceremick/github-language-colors/issues"
+  },
+  "homepage": "https://github.com/bryceremick/github-language-colors#readme"
+}
