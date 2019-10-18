@@ -1,6 +1,6 @@
 {
   "name": "github-lang-color-lookup",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple project that allows you to lookup github colors",
   "main": "index.js",
   "scripts": {
